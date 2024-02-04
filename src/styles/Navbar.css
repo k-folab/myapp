@@ -1,0 +1,59 @@
+h3 {
+  color: white;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+/* body {
+  margin-top: 20px;
+  margin-left: 95px;
+} */
+
+ul {
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+a,
+a:link,
+a:visited {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 95px;
+  align-items: center;
+}
+
+.logo-wrapper {
+  display: flex;
+  gap: 20px;
+}
+/* 
+.list {
+  color: white;
+} */
+
+.signin-wrapper {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  font-weight: 700;
+}
+
+.equalwrap {
+  background-color: brown;
+  border-radius: 50%;
+  height: fit-content;
+  width: fit-content;
+  padding: 5px 7.5px;
+}
+
+a {
+  color: white !important;
+  font-size: ;
+}

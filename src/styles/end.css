@@ -1,0 +1,99 @@
+.end-title {
+  color: black;
+  margin-left: 95px;
+  margin-top: 70px;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.cards {
+  display: flex;
+  gap: 80px;
+  background-repeat: no-repeat;
+  margin-left: 95px;
+  margin-top: 50px;
+}
+
+.nav-2 {
+  padding: 20px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-3 {
+  padding-top: 20px;
+  padding-left: 210px;
+}
+
+.tv-series {
+  background-color: gray;
+  color: black;
+  font-size: 12px;
+  font-weight: 700;
+  border-radius: 50px;
+  padding: 3px 8px;
+  height: fit-content;
+  width: fit-content;
+}
+
+.heart-logo {
+  background-color: gray;
+  border-radius: 50%;
+  height: fit-content;
+  width: fit-content;
+  padding: 2px 6px;
+  align-items: center;
+}
+
+.heart-logo_2 {
+  background-color: gray;
+  border-radius: 50%;
+  height: fit-content;
+  width: fit-content;
+  padding: 2px 6px;
+  align-items: center;
+}
+
+.card-1 {
+  /* height: 100vw; */
+  /* background-repeat: no-repeat; */
+  /* margin-left: 95px;
+  margin-top: 50px; */
+}
+/* .below {
+  justify-content: space-between;
+} */
+
+p {
+  color: gray;
+  font-size: 12px;
+}
+
+h1 {
+  color: black;
+  font-size: 18px;
+}
+
+.end-logos_wrap {
+  margin-top: 16px;
+  display: flex;
+  gap: 110px;
+  align-items: center;
+}
+
+.end-logo_1 {
+  display: flex;
+  gap: 8px;
+  color: black;
+  font-size: 12px;
+  align-items: center;
+}
+
+.end-logo_2 {
+  display: flex;
+  gap: 8px;
+  color: black;
+  font-size: 12px;
+}

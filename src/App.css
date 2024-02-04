@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: "DM Sans";
+  /* letter-spacing: 3px; */
+}
+
+.main_div {
+  /* height: 100vw; */
+  background-repeat: no-repeat;
+}

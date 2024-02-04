@@ -1,0 +1,64 @@
+.hero {
+  margin-top: 50px;
+  margin-left: 95px;
+  /* display: block; */
+}
+
+.hero-1 {
+  color: white;
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+
+.hero-2 {
+  margin-top: 16px;
+  display: flex;
+  gap: 50px;
+}
+
+.hero-2_first {
+  display: flex;
+  gap: 8px;
+  color: white;
+  font-size: 12px;
+}
+
+.hero-2_second {
+  display: flex;
+  gap: 8px;
+  color: white;
+  font-size: 12px;
+}
+
+.story {
+  font-size: 12px;
+  font-weight: 500;
+  color: white;
+  margin-top: 16px;
+  letter-spacing: 0.5px;
+}
+
+.hero-4 {
+  display: flex;
+  margin-top: 16px;
+  /* margin-bottom: 40px; */
+  background-color: brown;
+  height: fit-content;
+  width: fit-content;
+  border-radius: 6px;
+  gap: 8px;
+  align-items: center;
+  padding: 6px 16px;
+}
+
+.hero-4_first {
+  /* align-items: center; */
+  padding-top: 6px;
+}
+
+.hero-4_second {
+  color: white;
+  font-size: 14px;
+  font-weight: 700;
+}
